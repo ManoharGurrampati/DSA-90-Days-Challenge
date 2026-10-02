@@ -11,7 +11,7 @@ import java.util.Scanner;
  		* * * * *  
  */
 
-public class HollowRightAngleTriangle {
+public class HollowRightHalfTriangle {
 
 	public static void main(String[] args) {
 		System.out.println("Enter N Value : ");
